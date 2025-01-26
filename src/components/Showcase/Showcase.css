@@ -1,0 +1,47 @@
+.showcasebg {
+  background-image: url(../../assets/img//Banner.png);
+  height: 330px;
+  background-size: contain;
+
+  background-repeat: no-repeat;
+}
+@media(max-width:1316px){
+
+    .showcasebg{
+        height: 300px;
+    }
+}
+@media(max-width:1197px){
+
+    .showcasebg{
+        height: 280px;
+    }
+}
+@media(max-width:1097px){
+
+    .showcasebg{
+        height: 250px;
+        background-position: center;
+    }
+}
+@media(max-width:881px){
+
+    .showcasebg{
+        height: 200px;
+        background-position: center;
+    }
+}
+@media(max-width:756px){
+
+    .showcasebg{
+        height: 170px;
+        background-position: center;
+    }
+}
+@media(max-width:631px){
+
+    .showcasebg{
+        height: 140px;
+        background-position: center;
+    }
+}

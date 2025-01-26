@@ -1,0 +1,5 @@
+.btnSvg{
+    background-image: url(../../assets/svg/serachBtn.svg);
+    padding: 10px 40px;
+    border-radius: 0 8px 8px 0;
+}
