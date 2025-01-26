@@ -108,7 +108,7 @@ function Cards() {
                     <div>
                       <div className="flex  gap-2 items-center">
                         <p className="text-[14px] text-[#bbb]">{value.price_original}</p>
-                        <p className="bg-[#ffd634] text-[11px] flex items-center pt-1 justify-center px-1  w-fit rounded-sm">
+                        <p className="bg-[#ffd634] text-[11px] flex items-center  justify-center px-1  `w-fit rounded-sm">
                           {value.discount}
                         </p>
                       </div>
